@@ -61,7 +61,7 @@ I love building projects using *React.js, **Node.js*.
 ---
 
 ## 📊 GitHub Stats
-![Sushant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashPayghan&show_icons=true&theme=tokyonight)
+![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashPayghan&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashPayghan&layout=compact&theme=tokyonight)
 
